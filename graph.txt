@@ -1,0 +1,20 @@
+Graph Beispiel {
+    // Nodes
+    A = 1;
+    B = 2;
+    C = 3;
+    D = 4;
+    E = 5;
+    F = 6;
+
+    // Links
+    A - B : 10;
+    B - C : 5;
+    A - C : 20;
+
+    B - D : 50;
+    C - E : 10;
+    E - D : 5;
+
+    D - F : 2;
+}

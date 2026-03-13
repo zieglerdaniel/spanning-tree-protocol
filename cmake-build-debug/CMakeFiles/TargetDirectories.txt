@@ -1,0 +1,3 @@
+C:/Users/danie/Documents/DHBW/3_Semester/Netztechnik_Labor/spanning-tree-protocol/cmake-build-debug/CMakeFiles/Netztechnik_Labor.dir
+C:/Users/danie/Documents/DHBW/3_Semester/Netztechnik_Labor/spanning-tree-protocol/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/danie/Documents/DHBW/3_Semester/Netztechnik_Labor/spanning-tree-protocol/cmake-build-debug/CMakeFiles/rebuild_cache.dir
